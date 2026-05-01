@@ -54,3 +54,4 @@ Senior Frontend Engineer with 7+ years of experience building scalable web appli
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/uviedo-gabriel/
+- Portfolio & Technical Solutions: https://www.gusolutions.com.ar
